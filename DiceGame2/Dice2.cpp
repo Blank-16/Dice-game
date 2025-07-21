@@ -268,7 +268,6 @@ public:
 int main()
 {
     cout << "DOUBLE DICE GAME" << endl;
-    cout << "Simple but efficient!" << endl;
 
     DiceGame game;
     game.run();
